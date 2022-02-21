@@ -1,0 +1,15 @@
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.exe
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.deps.json
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.runtimeconfig.json
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.dll
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\ref\Tehtävä 5.2 Minkä ikäinen olet.dll
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\bin\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.pdb
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.csproj.AssemblyReference.cache
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.AssemblyInfoInputs.cache
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.AssemblyInfo.cs
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.csproj.CoreCompileInputs.cache
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.dll
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\ref\Tehtävä 5.2 Minkä ikäinen olet.dll
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.pdb
+C:\Users\sinir\source\repos\Tehtävä 5.2 Minkä ikäinen olet\Tehtävä 5.2 Minkä ikäinen olet\obj\Debug\net6.0\Tehtävä 5.2 Minkä ikäinen olet.genruntimeconfig.cache
